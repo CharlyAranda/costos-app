@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/costos-app/", // <-- el nombre de tu repositorio
+  base: "/costos-app/", // <- clave para GitHub Pages
 });
